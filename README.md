@@ -8,4 +8,5 @@ Ao final consta uma análise das principais informações coletadas, tais como: 
 Separei o projeto aqui em duas partes por conta do tamanho: Projeto - Analisando dados do Varejo. ipynb (Parte 1) e Projeto - Analisando dados do Varejo - Parte 2. ipynb
 
 Link das lives:  https://www.youtube.com/channel/UCgQUqpzdiARaHpbADx7qUxQ
+
 Fonte do banco de dados: https://www.kaggle.com/carrie1/ecommerce-data
